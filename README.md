@@ -42,9 +42,9 @@
   user for a caption and hashtags that would then create the social media post for the selected social media sites.
 </p>
 <p>
-  <a href="">Tempo Transfer</a> : A web application that allows a user to transfer their music playlists from one
+  <a href="">Tempo Transfer</a> [In Development]: A web application that allows a user to transfer their music playlists from one
   music streaming service to another.
 </p>
 <p>
-  <a href="">Socal Horror Events</a> : A web application that tracks horror events happening in Southern California and notifies users that when and where the event is occurring in real time.
+  <a href="">Socal Horror Events</a> [In Development]: A web application that tracks horror events happening in Southern California and notifies users that when and where the event is occurring in real time.
 </p>
