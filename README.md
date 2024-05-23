@@ -33,3 +33,12 @@
   <a href="https://www.linkedin.com/in/joseacostac" rel="nofollow noreferrer">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </p>
+
+# Projects
+<p>
+  Wuphf: A social media posting application that would forward images, text and video to various social media sites,
+  including X, Facebook, Instagram and Snapchat. The application would allow the user to either select an image from
+  their photo library or capture an image using the mobile device's camera. Then the application would prompt the 
+  user for a caption and hashtags that would then create the social media post for the selected social media sites.
+  Link to original project: https://github.com/LionelQuintanilla/CECS_491A_Senior_Project/deployments
+</p>
